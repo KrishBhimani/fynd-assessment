@@ -1,0 +1,802 @@
+[
+  {
+    "predicted_stars": 1,
+    "explanation": "The review describes a highly negative experience with poor service, long wait times, and disappointing food, along with a dismissive attitude towards the restaurant, indicating strong dissatisfaction and a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review describes a highly negative experience with poor service, overpriced food, and dissatisfaction, indicating a strong negative sentiment consistent with a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review contains strong negative language, criticism of food quality, and a clear statement that the reviewer will not return, indicating a very dissatisfied experience warranting a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with the store's staff, organization, and product availability, ending with a firm decision never to return, indicating a very negative experience."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with the service, mentioning multiple issues such as being unable to order dinner, poor service, and a negative overall experience, indicating a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review is overwhelmingly negative, citing poor service, unappetizing dessert presentation, and a dismissive attitude from staff. The reviewer explicitly states they will not return and would not recommend the restaurant, indicating a very dissatisfied experience."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment with cleanliness and quality issues, indicating a negative experience, but does not contain extreme hostility or complete dissatisfaction that would warrant a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review describes a highly negative experience, including theft, poor staff response, and a messy store environment, indicating strong dissatisfaction and a very low rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses clear dissatisfaction with the food quality, high prices, and overall experience, indicating a negative experience. While the reviewer does mention some positive aspects like the fries, the overall tone and complaints suggest a 2-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review is highly negative, expressing strong dissatisfaction with poor service, rude behavior, and a ruined atmosphere, indicating a very negative experience warranting a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review contains multiple serious complaints including hair in the food, poor service, and unappetizing flavors, indicating a very negative experience that warrants a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review contains strong negative language, explicit complaints about racial profiling, rude behavior, and a generally hostile tone, indicating a very negative experience that warrants a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review is overwhelmingly negative, highlighting poor food quality, unpleasant environment, and overall dissatisfaction, which indicates a very negative experience deserving of a 1-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses enjoyment of the atmosphere and some positive aspects like desserts and drinks, but the overall tone is negative due to the poor quality of the food, describing it as disgusting, dry, and tasteless. This indicates a generally negative experience with some minor positive elements, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses clear frustration and annoyance with the gas station's complicated and inconvenient process, indicating a negative experience. However, it does not contain strong or outright abusive language typical of a 1-star review, nor does it mention any positive aspects that would warrant a higher rating. The tone suggests dissatisfaction but not complete disappointment, leading to a 2-star prediction."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review is overwhelmingly negative, citing numerous issues such as poor maintenance, safety concerns, rude staff, unfulfilled promises, and a bad living environment, indicating a very dissatisfied experience."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with the service, accusing the business of unnecessary charges and planning to file a complaint, indicating a very negative experience."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review describes a highly negative experience due to being locked out of the car, poor handling by staff, and lack of compensation, indicating strong dissatisfaction and a very poor service quality."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with both the food and service, describing the food as terrible and the service as very slow, indicating a very negative experience consistent with a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review is highly negative, citing long wait times, poor customer service, and dissatisfaction with the care received, indicating a very poor experience consistent with a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction due to poor service (refusal to turn on air conditioning in hot weather) and uses harsh language, indicating a very negative experience."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The reviewer expresses disappointment with the food quality despite trying again, indicating a negative experience, but does not use extremely harsh language or mention severe issues, leading to a 2-star prediction."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review contains multiple negative comments about the food quality, poor customer service, and uncomfortable interactions, indicating a disappointing experience overall. While there are some positive notes about the kimchi buffet and food presentation, the overall tone and specific complaints suggest a rating of 2 stars."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment due to limited availability of donuts and the inconvenience of driving out of the way, indicating a negative experience despite some positive comments about the donuts themselves. Overall, the tone suggests dissatisfaction, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment with the quality of the sushi, mentioning stale fish and bland flavors, which indicates a negative experience. While the atmosphere and service were good, the overall dissatisfaction with the food leads to a 2-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review describes the environment as loud, crowded, cramped, and unpleasant, indicating a very negative experience with strong complaints, which aligns with a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with the service, calling the price 'a joke' and stating they would give a zero rating if possible, indicating a very negative experience."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review describes a highly negative experience due to long wait times, poor service, and dissatisfaction with the food and pricing, indicating a strong dissatisfaction typical of a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with the product, mentioning that none of the cupcakes were enjoyable, describing them as very dry with poor frosting, and even a child spit one out, indicating a very negative experience."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The reviewer expresses disappointment and frustration due to inconsistent hours, lack of communication, and unresponsiveness, indicating a very negative experience."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses repeated disappointment with the food quality and criticizes the restaurant's recipes, indicating a negative experience overall, but it does not contain extreme hostility or complete dissatisfaction that would warrant a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with the food quality and order accuracy, describes the experience as a complete disappointment, and explicitly states they will not return, indicating a very negative experience consistent with a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review describes a highly negative experience characterized by rudeness, poor service, and lack of basic customer care, indicating strong dissatisfaction and a likely 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with the cleanliness and quality of the food, mentioning repeated negative experiences and a lack of improvement after remodeling. The tone is highly negative, indicating a very poor experience."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review highlights negative aspects such as poor service, small portions, and high prices, indicating dissatisfaction, which aligns with a 2-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review contains multiple strong negative comments about the service, including burns, dirty environment, rude behavior, and poor customer service, indicating a very negative experience deserving of a 1-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review is overwhelmingly negative, highlighting long wait times, poor food quality, and a disappointing experience overall, which aligns with a 1-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses significant dissatisfaction with the store's layout, product selection, and overall experience, indicating a negative perception. However, it does not contain extreme insults or complete dissatisfaction that would warrant a 1-star rating, so a 2-star rating best reflects the negative but not entirely disastrous experience."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses clear dissatisfaction due to a serious mistake with the order, leading to discomfort and disappointment. While the reviewer received a refund, the lack of apology or compensation indicates a negative experience. The tone is critical and upset, aligning with a 2-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review describes a highly negative experience with poor service, long wait times, and lack of acknowledgment, indicating strong dissatisfaction consistent with a 1-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses significant dissatisfaction with maintenance issues, disorganization, and poor customer service, indicating a negative experience. While not entirely terrible, the problems are serious enough to warrant a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review mentions good service but highlights significant issues with the food, especially the gyro, which was the worst the reviewer has had. The overall tone is negative due to the poor food quality, despite attentive service. This combination suggests a rating of 2 stars."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment with the food quality, especially the guacamole and salsa, and indicates that the rest of the food was only okay. The tone is somewhat critical and suggests a negative experience, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review describes multiple food and service issues, including bland and unappetizing dishes, long wait times, and poor management, indicating a very negative experience consistent with a 1-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review reflects a generally positive experience with good food quality, friendly service, and a pleasant atmosphere, but is marred by significant issues like the presence of a dead fly in a salad and a hair on a pickle spear, as well as some dissatisfaction with food presentation and consistency. These mixed sentiments lead to a neutral, 3-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses dissatisfaction with the service, specifically criticizing the staff's attitude and behavior, which indicates a negative experience. However, the reviewer still mentions loving the coffee, suggesting that the product itself is good. This combination of positive product feedback with negative service issues aligns with a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review contains significant negative feedback about the food quality, service, and cleanliness, including issues like underwhelming dishes, limited vegetables, and a bug found in the water. While there are some positive comments about the queso and tortillas, the overall tone is disappointed and critical, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review mentions some positive aspects like good service, homemade chips, and tender chicken, but also highlights significant disappointments with the green sauce and side dishes, indicating a mixed experience. Therefore, a 3-star rating reflects a neutral or mixed sentiment."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review mentions positive aspects like the beautiful setting and good service, but the negative comments about the overpriced, average, and overcooked burgers lead to a neutral to slightly negative overall impression, resulting in a 3-star prediction."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment with the food quality and indicates the reviewer will not return, reflecting a negative experience but not an extremely harsh or entirely satisfied tone, leading to a 2-star prediction."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review contains multiple negative comments about the food quality, pricing, service, and decor, indicating a very dissatisfied experience, which aligns with a 1-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review mentions a long wait, unmemorable food, and a limited menu, indicating dissatisfaction with the experience. While service was not bad, the overall tone is negative, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses consistent dissatisfaction with poor service, long wait times, and repeated order mistakes, indicating a negative experience overall, which aligns with a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses strong dissatisfaction with high prices and poor quality of food and drinks, indicating a negative experience. However, it does not contain extreme hostility or complete dissatisfaction that would warrant a 1-star rating, so a 2-star rating best reflects the negative sentiment."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review highlights multiple negative aspects such as small and uncomfortable space, poor song selection, mediocre food, and some service issues, indicating a generally unsatisfactory experience. While the staff was friendly, the overall tone and specific complaints suggest a rating of 2 stars."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review initially describes a positive experience but then details significant dissatisfaction with recent visits, citing lack of flavor, poor quality sides, and a decline in overall quality. The strong negative ending indicates a mostly negative experience, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses strong disappointment with the food quality, describing it as bland and tasteless, and calling the dishes 'blech' and 'worst ever,' which indicates a negative experience. Although the service was decent, the overall tone and specific complaints suggest a rating of 2 stars."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with the food, describing it as gross, dried out, and with terrible flavor. The negative tone and specific complaints indicate a very poor experience, leading to a 1-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment with the restaurant's food quality and authenticity, highlighting negative experiences and criticisms, which indicates a negative overall sentiment leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review mentions positive aspects like the fun presentation and unique style, but also notes that the products were greasy for the reviewer's skin and that it wasn't suitable for them personally. This indicates a mixed experience, leading to a neutral or slightly positive rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment with the food quality and value, describing it as mediocre and overpriced, and includes negative comments about the experience. While it acknowledges quick service, the overall tone is negative, leading to a 2-star prediction."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment with the closing time not being honored and frustration over the lack of water options, indicating a negative experience. While there are some positive mentions about initial excitement, the overall tone is dissatisfied, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review highlights some positive aspects like good food and naan, but the overall tone is negative due to poor service, unpleasant ambiance, and confusing, unprofessional behavior from staff. The reviewer expresses frustration and disappointment, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The reviewer mentions that the food was pretty good and enjoyed the meal, but their main issue was with poor service, including a long wait despite a reservation and inadequate assistance from staff. The negative aspects outweigh the positive, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review reflects a mixed experience with some positive aspects like the ambiance and certain food items, but also mentions significant issues such as slow service, mediocre quality of certain dishes, and high expectations not being met for the price. Overall, it indicates a neutral to slightly negative experience, leading to a 3-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review mentions some positive aspects like ambiance and a potential entertainment feature, but overall it highlights poor service and flat drinks, indicating a negative experience with some minor redeeming qualities, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review contains strong negative language about the food quality and the staff's professionalism, indicating a very poor experience, which aligns with a 1-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review describes a positive experience with the food being good, but mentions the high cost and suggests that for the price paid, the value was not ideal. This indicates a mixed or neutral sentiment, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses dissatisfaction with the service and the appetizer, describing it as 'lousy' and poorly prepared. While there are some positive comments about certain dishes and drinks, the overall tone is negative, highlighting issues with food quality and service delays, which justifies a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review describes the store as 'possibly the creepiest' the reviewer has ever been to, indicating a very negative impression. The mention of its location between a strip mall and a dirt lot adds to the negative tone, suggesting discomfort or unease. Overall, the tone is strongly negative but does not include detailed complaints or extreme dissatisfaction that would warrant a 1-star rating, leading to a 2-star prediction."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review is highly negative about the food quality, especially the pastrami and bagels, and criticizes the restaurant's authenticity and effort. While the reviewer mentions a positive aspect about the pickles, the overall tone indicates dissatisfaction, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review describes a negative experience at the gas station, including car trouble, feeling unsafe, and lack of assistance from others. Although the reviewer found help from some teenagers, the overall tone highlights frustration and inconvenience, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review describes the experience as 'so so' with 'ok' food and atmosphere, indicating a neutral or mixed sentiment, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review is overwhelmingly negative, highlighting long wait times, overcrowding, poor event management, broken amenities, and a disappointing experience overall, which justifies a 1-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses dissatisfaction with the food's taste and mentions an unpleasant smell, indicating a negative experience. The reviewer also states they will not return, which supports a low rating. However, the tone is not extremely harsh, and there are no severe complaints, so a 2-star rating is appropriate."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review reflects a generally neutral to slightly negative experience, noting a decline in food quality but also mentioning past positive history and hope for improvement. The tone suggests mixed feelings, leading to a neutral rating of 3 stars."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses a strong negative opinion, indicating dissatisfaction with the overall experience and only praising a single item, which suggests a very poor experience warranting a 1-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review mentions that the sub was okay and nothing special, with some minor issues like limited bread options and lack of enthusiasm for the food. However, the staff was nice and the place was clean, and the reviewer indicates they might eat there again. Overall, it reflects a neutral to slightly negative experience, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review describes a disappointing meal with negative comments on the quality and flavor of the food, indicating a negative experience but not entirely catastrophic, which aligns with a 2-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses a very negative experience primarily due to rude and incompetent service, which overshadowed the good food. The strong dissatisfaction with service justifies a 1-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review reflects a mixed experience with some positive aspects like ambiance and freshness of seafood, but overall the food did not meet expectations in taste and spiciness, leading to a neutral to slightly negative rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The reviewer expresses some dissatisfaction with stale bread in their sandwiches, which is a negative point, but overall describes Sprout's as a great farmer's market with a good selection of products. The positive comments outweigh the minor issues, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review reflects a neutral to mildly positive experience, with polite staff and no major complaints, but also no standout positive aspects, indicating a middle rating of 3 stars."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses mixed feelings, appreciating some aspects like the patio and atmosphere but criticizing service and menu options. The tone is somewhat neutral with both positive and negative comments, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review mentions a negative incident with a bug in the dessert but also notes that the manager handled it well and the rest of the meal was enjoyable. The overall tone is mixed, indicating a neutral to slightly negative experience, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses significant dissatisfaction with the staff's behavior, which negatively impacted the experience, indicating some issues. However, the reviewer still considers the food good and has a generally positive view of the place, leading to a neutral or mixed overall rating of 3 stars."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review is mostly negative, criticizing the location, quality, and flavor of the cupcakes, and expressing strong dissatisfaction. Although the reviewer notes some minor positives, the overall tone and detailed complaints indicate a poor experience, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review highlights positive aspects such as interesting food, friendly staff, and a cool location, indicating a generally positive experience. However, the reviewer expresses dissatisfaction with the high cost and feeling ripped off, which introduces a negative element. Overall, the experience is mixed, leading to a neutral to slightly positive rating of 3 stars."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review describes multiple negative experiences, including poor service, a fall incident, and a worn-out environment, along with a dismissive tone towards the staff and atmosphere. While not entirely hostile, the overall sentiment is clearly negative, indicating a 2-star rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses dissatisfaction with the service and food quality, mentioning long wait times, unprofessional behavior, and poor fish dishes. While the reviewer enjoyed some aspects like the rice, chicken, and bread, overall the negative comments and lack of enthusiasm suggest a negative experience, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses satisfaction with the buffet and some positive aspects, indicating a generally good experience for lunch. However, the negative comments about dinner and take-out quality, along with the mention of sub-par food and burnt naan, suggest issues that prevent a higher rating. Overall, the review reflects a mixed experience, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review highlights excellent service and a positive atmosphere, but the food quality was disappointing, with bland steaks and only the dessert being praised. This mix of positive and negative aspects suggests a neutral to slightly negative overall experience, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review mentions both positive aspects, like enjoying the food and drinks, and negative experiences such as long wait times, poor service, and disappointing margaritas. The overall tone is mixed, leading to a neutral or average rating of 3 stars."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review mentions great food but criticizes the service and language barrier, indicating a negative experience overall with some redeeming qualities, which aligns with a 2-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses a generally positive experience with praise for the atmosphere, staff, and some dishes, but also highlights issues such as high prices, disappointing menu options, and spicy food that was not clearly labeled. The mixed sentiments and moderate criticisms lead to a neutral, middle-ground rating of 3 stars."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects such as a good selection of wine, beers, and fresh organic produce, along with efficient checkout. There are some mixed experiences with staff assistance in the meat section, but overall the tone is positive, indicating a generally favorable experience with minor issues."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review praises the food and service as excellent and top-notch, indicating a very positive experience. However, it mentions the prices are exorbitant and not suitable for budget-minded diners, which suggests minor dissatisfaction related to cost. Overall, the positive aspects outweigh the negatives, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses mixed feelings, noting some dissatisfaction with the new location’s cleanliness and ambiance, but also highlights positive aspects like the salads and the reviewer’s willingness to return. Overall, the experience seems neutral to slightly negative, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects such as cleanliness, good parking, and decent prices with a bonus, indicating a generally positive experience with only minor issues or no significant complaints."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review contains both positive comments about the presentation and some dishes, as well as minor criticisms regarding food texture and blandness, indicating a mixed or neutral experience typical of a 3-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review describes an average airport experience with a specific issue regarding boarding information, indicating a neutral to slightly negative experience but not strongly negative or positive overall."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review mentions good food and a pleasant atmosphere but highlights concerns about high prices and limited healthy options, indicating a mixed experience. The comment about empty tables suggests some dissatisfaction, but overall the tone is neutral to slightly negative, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment with the food quality and value, indicating a negative experience, but does not contain strong or outright hostile language, suggesting a rating of 2 stars."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses some dissatisfaction with the service, noting unfriendly staff, but also mentions a good dessert and hope for improvement, indicating a mixed or neutral experience overall."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review describes the coffee shop as inviting and clean with standard offerings, and the reviewer considers it a good option for a casual coffee break. There are no significant complaints or strong positive remarks, indicating a neutral to mildly positive experience, which aligns with a 3-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is generally positive, highlighting the convenience, comfort, and a recommended dish, while only mentioning minor issues like watered-down Sriracha. The tone is friendly and suggests a good experience overall, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "The review expresses significant dissatisfaction with the airport and airline, highlighting issues like delays, difficulty reaching gates, and negative feelings toward both Sky Harbor and Southwest. While there are some minor positive notes, the overall tone is negative, leading to a 2-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review expresses a very positive opinion about the food, highlighting specific favorites and good quality. However, it mentions a less desirable location, which is a minor issue. Overall, the positive comments outweigh the negatives, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses some dissatisfaction with limited customization options and minor inconveniences, but overall the tone is neutral and the experience does not seem highly negative or positive, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review highlights positive aspects like the pool facilities and food service, indicating a generally good experience. However, the mention of a high volume of screaming children and the suggestion that the hotel may not be suitable for adults seeking relaxation introduces some negative sentiment. Overall, the review reflects a mixed experience, leading to a neutral rating of 3 stars."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses appreciation for the food, describing it as tasty and enjoyable, but highlights significant issues with the service, which was described as 'abysmal.' The reviewer mentions a mixed experience, with positive food but poor service, leading to a neutral overall rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review describes the experience as 'OK' with decent food but nothing spectacular, indicating a neutral to slightly negative sentiment. The mention of going elsewhere for better options and a minor inconvenience about payment methods suggests a mixed experience, leading to a 3-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review describes a generally positive experience with good service and a smooth event, but mentions some dissatisfaction with the food, particularly the cheesecake. The mixed feedback and neutral tone suggest a middle rating of 3 stars."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review mentions both positive aspects, such as friendly staff and convenience, and minor complaints like temperature and TV options, indicating a mixed or neutral experience."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review describes a generally positive experience with friendly service and tasty food, but also mentions some mediocre dishes and a neutral overall tone. The reviewer states they would return mainly because of their husband's enjoyment, indicating a balanced or mixed experience, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review mentions some positive aspects like good service and enjoyable desserts, but also notes issues with food quality, such as overcooked steaks and less crispy onion blossom, indicating a mixed experience. Overall, it reflects a neutral to slightly negative sentiment, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses a generally positive sentiment towards the restaurant's food and happy hour but highlights declining service quality and negative recent experiences, leading to a neutral or mixed overall rating of 3 stars."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review reflects a mixed experience with some positive aspects like good happy hour prices, friendly staff, and enjoyable communal seating, but also mentions disappointment with the show and food quality, leading to a neutral overall rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review describes a positive experience with good food, attentive service, and a pleasant atmosphere, though the food didn't exceed expectations and the reviewer mentions the price as a minor issue. Overall, it reflects a favorable but not exceptional experience, leading to a 4-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review describes the experience as average, noting that the food is not great but not terrible, and suggests it is suitable for a quick, cold snack in a limited airport food selection. The neutral tone and mixed feedback indicate a middle rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is overall positive, praising the atmosphere, menu, and food quality, with only minor criticisms regarding service timing. This suggests a good experience with slight issues, aligning with a 4-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is generally positive, praising the food and service, with only a minor complaint about the dryness of the chicken. The tone is friendly and appreciative, indicating a good experience despite small issues, leading to a 4-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is generally positive, mentioning helpful staff and a good shopping experience, with no negative feedback. The mention of 'Four stars' explicitly indicates a 4-star rating, aligning with the overall positive tone."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the food, drinks, atmosphere, and live music, and explicitly states that Rula Bula's food deserves 5 stars. Despite mentioning some minor issues like noise and limited beer selection, the overall tone and specific compliments indicate an excellent experience."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is overall positive, highlighting a unique and enjoyable experience with creative activities and stress relief. However, the reviewer deducts one star due to an intrusive staff member that negatively impacted their experience, indicating minor issues but not enough to warrant a lower rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is generally positive, highlighting good food and friendly staff, with a mention of wanting to try a specific dish next time, indicating satisfaction with minor room for improvement."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is mostly positive, praising the food and specifically highlighting the prime rib burger as excellent. The only negative point is the change in policy regarding takeout happy hour specials, which is a minor issue. Overall, the tone is positive with some minor dissatisfaction, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review highlights a fantastic food experience and fast, spot-on service, with minor issues such as wait times and bathroom quirks. Overall, it reflects a positive experience with some minor inconveniences, leading to a 4-star rating."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review expresses high enthusiasm and satisfaction with the pizza, describing it as fantastic and delicious, which indicates an excellent experience. The positive tone and lack of any complaints support a 5-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review praises the food quality and mentions a positive experience with the sauce and overall willingness to return, indicating a generally positive experience. The service was only marginal and did not significantly detract from the experience, which aligns with a 4-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The reviewer expresses positive feelings about the food, mentioning favorites and describing the dishes as tasty and enjoyable. They note that the experience was good despite not commenting on service, and their tone is generally appreciative. This suggests a positive experience with minor issues, aligning with a 4-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is highly positive, highlighting enjoyment of the food, the fresh preparation, and a desire to return, which suggests a 4-star rating. However, the mention of needing to burn off calories indicates minor acknowledgment of some inconvenience or indulgence, preventing a perfect score."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is overall positive, highlighting the cleanliness, variety of activities, and dog-friendly environment, with only minor mention of missing a bookstore. The tone is enthusiastic and appreciative, indicating a good experience with slight room for improvement."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is very positive, highlighting helpful staff, enjoyable atmosphere, and good deals, with only minor mentions of issues such as setup and location. Overall, it reflects a positive experience that aligns with a 4-star rating."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses strong praise for the cookies and pastries, rating them highly, but indicates that the rest of the food is only 'good' or 'OK,' suggesting a mixed experience. The overall tone is positive but not overwhelmingly so, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review describes a generally positive experience with some reservations about the pho, which was only 'good' rather than great. The reviewer enjoyed parts of the meal and would return, but their mixed feelings about the main dish suggest a neutral to slightly positive overall rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review provides detailed positive feedback about the trail's features, accessibility, and scenery, indicating a generally favorable experience. The only minor issue mentioned is the crossing safety concern, which does not significantly detract from the overall positive tone, leading to a 4-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review contains positive comments about the karaoke, friendly people, and drink options, indicating an overall enjoyable experience. While there are some odd or negative remarks about certain interactions, the reviewer explicitly states they had a really good time drinking there, which suggests a positive experience with only minor issues."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review expresses enjoyment of the food and positive aspects like generous samples and friendly service, indicating a good experience. While the place isn't visually appealing, the overall tone is positive, suggesting a 4-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is generally positive, highlighting good drinks, tasty food, and a fun atmosphere. The only minor issue mentioned is the loudness at night, which does not significantly detract from the overall positive experience. Therefore, a 4-star rating is appropriate."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is generally positive, praising the food and recommending specific dishes, with only minor criticism about the decor and atmosphere. The tone is friendly and appreciative, indicating a good experience overall, which aligns with a 4-star rating."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, highlighting the quality, flavor, affordability, and friendly atmosphere of the restaurant. The mention of police officers patronizing the place further emphasizes its popularity and good reputation, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is overall positive, highlighting several delicious dishes and a great dining experience, despite some minor issues like slow service and a dish that missed something. The enthusiastic tone and detailed praise for the food suggest a high rating, but not perfect due to small imperfections and the mention of minor inconveniences."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive feelings about the food, prices, and service, highlighting specific favorites and recommending reservations, which indicates an excellent experience deserving of a 5-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is humorous and lighthearted, with a positive remark about the masks being good. The joke about robberies suggests a playful tone rather than a negative experience, indicating a generally positive impression with minor humor, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is generally positive, highlighting good service, prompt pickup, and additional amenities, with only minor mentions of waiting times and navigation issues, which suggests a high but not perfect rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review expresses a positive experience with comments about the organization, helpful staff, and reasonable prices, indicating satisfaction. The mention of minor issues and a lighthearted tone suggest a generally good experience, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review expresses enjoyment of the venue, food, and music, and indicates a willingness to return, reflecting a positive experience. The minor complaint about smoking outside is acknowledged but does not significantly detract from the overall positive tone, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review contains highly positive language, praising the food, drinks, decor, atmosphere, and service. The reviewer also mentions they will definitely return, indicating a very satisfying experience."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review expresses enthusiasm and appreciation for the exhibits, mentioning that the museum was worth the $6 admission and highlighting positive aspects like the artifacts and outdoor area. While it does not mention any significant issues, the tone is generally positive with minor notes about the museum not being part of a larger circuit, which aligns with a 4-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is overall positive, highlighting helpful service, good food, and a pleasant dining experience. The tone is friendly and appreciative, with only minor humorous remarks that do not detract from the positive sentiment. Therefore, a 4-star rating is appropriate."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is highly positive, praising the themed decor, entertainment options, and the brunch experience. While it mentions the place hadn't opened at the expected time, the overall tone is enthusiastic and favorable, indicating a good experience with minor issues."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses mixed feelings, noting that the food is not high quality but is tasty and enjoyable, especially the specific dishes mentioned. The service is described as inconsistent, and there are some shortcomings, but overall the reviewer seems satisfied with the food and value. This suggests a neutral to slightly positive experience, leading to a 3-star prediction."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is positive, highlighting a good variety of menu options, enjoyable food, and good service. While the reviewer expected larger portions, they still found the servings to be sufficient, indicating a generally favorable experience with minor expectations not fully met."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the food quality, portion sizes, friendly service, and overall experience, indicating a 5-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review reflects a positive experience with enjoyable atmosphere, good food, and interesting encounters, though it mentions minor issues like the personal space concern and the casual tone. Overall, the reviewer plans to return, indicating satisfaction."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is very positive, highlighting wonderful pasta and salads, and appreciating the generous extra garlic, which adds a humorous touch. There are no significant complaints, indicating a generally positive experience with minor playful remarks, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, highlighting good food, a pleasant experience, and plans to return regularly. There are no negative comments or issues mentioned, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is overall very positive, praising the donuts' taste, freshness, and customer service, and recommending the place over chain options. The minor reason for not giving a 5-star rating is that a few group members preferred a different style of donut, and the reviewer mentions a slight expectation mismatch. These factors lead to a 4-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review highlights a positive experience with a relaxed atmosphere, friendly owners, good prices, and enjoyable amenities like live music and people watching. While it is very favorable, it does not mention exceptional service or unique features that would warrant a 5-star rating, so a 4-star rating is appropriate."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the quality and taste of the product, recommending specific flavors, and expressing enthusiasm. The tone is cheerful and complimentary, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, highlighting creative and healthy menu options, consistent satisfaction with specific dishes, and mentioning a notable guest, all indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the food, service, atmosphere, and overall experience at a vegan restaurant. The only mention of criticism is about other reviews from meat eaters, which does not reflect the reviewer's own experience, indicating a strong satisfaction."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the quality of food, cleanliness, service, and overall experience, indicating a 5-star rating."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review expresses enthusiasm and positive feedback about the frozen yogurt, highlighting its quality, freshness, and health benefits, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review contains highly positive language, praising multiple aspects such as views, food, service, and atmosphere. The mention of a special deal and specific delicious items further indicates a very satisfying experience, leading to a 5-star prediction."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review uses enthusiastic language like 'Kick @$$' and 'Wow', indicating a highly positive experience. The mention of being 'The Best' and the ability to make anything suggests strong satisfaction with the service and offerings, leading to a 5-star prediction."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, highlighting excellent food, warm atmosphere, and a willingness to return, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review uses highly positive language, praising the food, drinks, and staff, and explicitly recommends the place, indicating an excellent experience deserving of a 5-star rating."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review expresses enthusiasm about the store's unique vintage clothing and jewelry, highlighting positive aspects and a good shopping experience, with no significant complaints, indicating a 4-star rating."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses frustration and disappointment due to the business being closed when expected and unresponsive to calls, indicating a very negative experience."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects such as finding great t-shirts and appreciating the store's vibe, with only minor remarks about the clerk using a Mac. Overall, it conveys a positive experience with some light humor, suggesting a 4-star rating."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review uses enthusiastic language and highlights multiple positive aspects such as fresh pizza, good cannoli, and a great wine selection, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is very positive, highlighting the store's organization, variety, and quality of food, with only minor mention of higher prices and the need for planning to avoid overspending. Overall, the tone is enthusiastic and satisfied, indicating a 4-star experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the service, the staff, and the results, and expressing a desire to return, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive feelings about the food and the ambiance, with enthusiastic language and no negative comments, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The review expresses love for the food but mentions that it's pricey, indicating a generally positive experience with some concern about cost, leading to a neutral or mixed rating."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review expresses high satisfaction with the variety of the menu, excellent service, and a pleasant ambiance, along with a positive intention to return, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the care and expertise of the staff, the quality of the piercing, and the customer's satisfaction with the results, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review highlights a positive experience with delicious food, relaxing atmosphere, great service, and specific recommendations, indicating a highly satisfied customer and an excellent overall experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the quality of food, generous portions, attentive staff, and overall experience, indicating an excellent experience deserving of a 5-star rating."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, highlighting frequent visits, enjoyment of various menu items, and enthusiasm for the cafe's atmosphere and beverages. There are no negative comments or issues mentioned, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review uses highly positive language, praising the restaurant's beauty, service, and cuisine, and specifically recommends a dish, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review uses highly positive language such as 'awesome' and 'delicious,' and mentions the place is good for groups, indicating a very satisfying experience with no negative comments."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review expresses a positive experience with delicious food and a recommended dish, despite mentioning slow service. Overall, the tone is upbeat and satisfied, indicating a 4-star rating."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the cozy atmosphere, excellent food, and attentive service, with no significant complaints or issues mentioned."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review uses positive language such as 'delish & authentic,' mentions generous portions, good quality injera, and expresses enthusiasm about returning for the coffee ceremony, indicating a highly positive experience."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review is generally positive, highlighting the store's availability of costumes and party gear year-round and recommending it for costume-related needs. The only minor issue mentioned is the availability of specific items at a lower online price, but this does not significantly detract from the overall positive tone."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review contains highly positive language, praising Southwest Airlines for its reliability, low costs, customer service, and lack of judgment, with only minor humorous remarks. Overall, it reflects an excellent experience."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review expresses strong positive feelings about the food and experience, mentioning repeated visits, enjoyment of the old and new location, and specific praise for the mini red velvet cupcake. While the reviewer notes the busy lunch hours and some uncertainty about the new place, these are minor issues that do not significantly detract from the overall positive sentiment, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the store as awesome, highlighting fresh produce, good prices, and a variety of organic options, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, emphasizing consistent quality, friendly staff, a welcoming atmosphere, and good food with minor mention of features like happy hour. There are no negative comments, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the food, ambiance, and service without mentioning any issues or complaints, indicating an excellent experience deserving of a 5-star rating."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review expresses high satisfaction with the pastries, describing them as delicious and noting a positive experience despite the need for an appointment. The reviewer also indicates they will return frequently, which suggests a highly positive overall impression."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the food, drinks, service, and atmosphere. The reviewer expresses enthusiasm and gratitude, indicating an excellent experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, praising the fish tacos as the best and explicitly stating a dislike for chain restaurants, indicating a strong positive experience and enthusiasm."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review describes a long-standing, well-established bike shop with a good selection of older and hard-to-find parts, friendly service, and free air. While it does not mention high-end bikes or exceptional service, the overall tone is positive and highlights the shop's reliability and helpfulness, suggesting a 4-star experience."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects such as good drinks, useful amenities, and tasty hot sandwiches, with only minor mentions of grease. The enthusiastic tone and praise like 'QT frickin' rocks' suggest a generally positive experience, leading to a 4-star prediction."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review contains enthusiastic language, positive comments about the food, prices, atmosphere, and outdoor seating, indicating an excellent experience and a highly positive sentiment."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive, highlighting delicious food, excellent service, and a strong desire to return. Despite mentioning the price as a minor issue, the overall tone and detailed praise indicate an excellent experience consistent with a 5-star rating."
+  }
+]
