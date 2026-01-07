@@ -19,19 +19,19 @@ A production-grade, two-dashboard AI feedback system with server-side LLM orches
                                  │ REST API
                                  ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                         Backend (FastAPI)                        │
-│  ┌──────────────┐  ┌──────────────┐  ┌──────────────────────┐  │
-│  │  Validation  │→ │Business Logic│→ │  LLM Orchestration   │  │
-│  │    Layer     │  │    Layer     │  │   (OpenAI GPT-4o)    │  │
-│  └──────────────┘  └──────────────┘  └──────────────────────┘  │
+│                         Backend (FastAPI)                       │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────────────┐   │
+│  │  Validation  │→ │Business Logic│→ │  LLM Orchestration   │   │
+│  │    Layer     │  │    Layer     │  │   (OpenAI GPT-4o)    │   │
+│  └──────────────┘  └──────────────┘  └──────────────────────┘   │
 │                           │                     │               │
 │                    ┌──────┴─────────────────────┘               │
 │                    ▼                                            │
-│  ┌─────────────────────────────────────────────────────────┐   │
-│  │              Error Handling & Fallbacks                  │   │
-│  │  • Timeout protection   • Graceful degradation          │   │
-│  │  • Rate limiting        • Always store submissions       │   │
-│  └─────────────────────────────────────────────────────────┘   │
+│  ┌─────────────────────────────────────────────────────────┐    │
+│  │              Error Handling & Fallbacks                 │    │
+│  │  • Timeout protection   • Graceful degradation          │    │
+│  │  • Rate limiting        • Always store submissions      │    │
+│  └─────────────────────────────────────────────────────────┘    │
 └────────────────────────────────┬────────────────────────────────┘
                                  │
                                  ▼
